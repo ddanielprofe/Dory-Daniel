@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MaestroWarmup AI",
+  "description": "An intelligent warm-up generator for language teachers. Tailor daily exercises for Beginning, Intermediate, and Advanced classes (Pasitos, Viaje, Adelante, Cumbre) using your own vocabulary and lesson plans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
